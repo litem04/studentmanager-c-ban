@@ -25,3 +25,4 @@ student-management/
 │ │ │ └── index.html # Giao diện chính
 │ │ └── application.properties
 ├── pom.xml
+<img width="486" height="694" alt="image" src="https://github.com/user-attachments/assets/c5c52cd1-3975-4965-835d-aa1dfb1013d4" />
