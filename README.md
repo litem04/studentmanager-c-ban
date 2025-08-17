@@ -11,18 +11,7 @@ Dự án được xây dựng bằng Java và Spring Boot.
 - HTML/CSS/JS (giao diện cơ bản)
 
 ## 📁 Cấu trúc dự án
-student-management/
-├── src/
-│ ├── main/
-│ │ ├── java/com/studentmanagement/
-│ │ │ ├── controller/ # Lớp điều khiển API
-│ │ │ ├── repository/ # Lớp truy xuất dữ liệu
-│ │ │ ├── service/ # Lớp xử lý logic
-│ │ │ └── StudentManagementApplication.java
-│ │ └── resources/
-│ │ ├── static/
-│ │ │ ├── js/ # JavaScript frontend
-│ │ │ └── index.html # Giao diện chính
-│ │ └── application.properties
-├── pom.xml
+
 <img width="486" height="694" alt="image" src="https://github.com/user-attachments/assets/c5c52cd1-3975-4965-835d-aa1dfb1013d4" />
+## Hình ảnh khi chạy
+<img width="1782" height="564" alt="image" src="https://github.com/user-attachments/assets/c9d0d2aa-0ed7-4d06-94de-48fa1bfc7825" />
